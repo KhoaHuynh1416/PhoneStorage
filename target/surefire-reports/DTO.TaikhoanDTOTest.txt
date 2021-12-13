@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------
+Test set: DTO.TaikhoanDTOTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE!
+DTO.TaikhoanDTOTest.testSetRole()  Time elapsed: 0 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at DTO.TaikhoanDTOTest.testSetRole(TaikhoanDTOTest.java:92)
+
+DTO.TaikhoanDTOTest.testGetPassword()  Time elapsed: 0 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at DTO.TaikhoanDTOTest.testGetPassword(TaikhoanDTOTest.java:79)
+
+DTO.TaikhoanDTOTest.testGetRole()  Time elapsed: 0 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at DTO.TaikhoanDTOTest.testGetRole(TaikhoanDTOTest.java:51)
+
+DTO.TaikhoanDTOTest.testSetPassword()  Time elapsed: 0 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at DTO.TaikhoanDTOTest.testSetPassword(TaikhoanDTOTest.java:118)
+
+DTO.TaikhoanDTOTest.testGetMaTK()  Time elapsed: 0 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at DTO.TaikhoanDTOTest.testGetMaTK(TaikhoanDTOTest.java:65)
+
+DTO.TaikhoanDTOTest.testSetMaTK()  Time elapsed: 0 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at DTO.TaikhoanDTOTest.testSetMaTK(TaikhoanDTOTest.java:105)
+
